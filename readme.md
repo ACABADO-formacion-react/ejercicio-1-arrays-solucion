@@ -34,7 +34,7 @@ Declara una variable que almacene este array:
     {
         paciente: {
             nombre: 'Esteban',
-            edad: 40,
+            edad: 14,
             sexo: 'H'
         },
         diasIngresado: 3,
